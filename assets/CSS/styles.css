@@ -1,0 +1,45 @@
+*{
+
+
+    box-sizing: border-box;
+    font-family: 'roboto', sans-serif;
+}
+body{
+
+   background-color: #00072d;
+    p{
+        font-size: 20px;
+        background: -webkit-linear-gradient(#440bd4 ,#ff2079,#e92efb);
+        -webkit-background-clip: text;
+        -webkit-text-fill-color: transparent;
+    }
+    color: white;
+    line-height: 1.6;
+
+}
+header{
+    background-color: #00072d;
+    color: #ffffff;
+    padding: 1rem 2rem;
+    text-align: center;
+    border-bottom: 2px solid #3b82f6;
+}
+header h1{
+    font-size: 4.5rem;
+    letter-spacing: 2px;
+}
+header h2{
+    font-size: 2rem;
+}
+main h2{
+    font-size: 1.7rem;
+}
+a:hover {
+ color: #ffffff;
+}
+footer {
+    text-align: center;
+}
+
+
+
